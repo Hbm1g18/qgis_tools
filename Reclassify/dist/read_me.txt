@@ -1,0 +1,1 @@
+reclassify_table {file} {output folder} --num-intervals {num}
